@@ -3,11 +3,14 @@
 ![Memo App](Imgs/main.png)
 
 **Memo** is a lightweight, user-friendly notepad application built with **C#** and **Windows Forms**. 
-It provides essential text editing features in a clean, minimal interface—perfect for quick notes, ideas, or drafts.
+It provides essential text editing features in a clean, minimal interfaceâ€”perfect for quick notes, ideas, or drafts.
 
 ---
 
 ## Features
+- **File Operations**
+  - New, Open, Save, Save As
+  - Exit application
 
 - **Basic Text Editing**  
   - Type, edit, and format plain text  
