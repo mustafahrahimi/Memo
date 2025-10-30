@@ -14,6 +14,7 @@ It provides essential text editing features in a clean, minimal interface—perfec
   - Undo, Cut, Copy, Paste (via right-click context menu)
 
 ![File](Imgs/file.png)
+
 ![Edit](Imgs/edit.png)
 
 - **Real-time Statistics**  
